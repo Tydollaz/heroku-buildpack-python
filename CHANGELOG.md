@@ -2,6 +2,10 @@
 
 # Master
 
+- Update setuptools from 39.0.1 to:
+  - 44.1.1 for Python 2.7
+  - 43.0.0 for Python 3.4
+  - 47.1.1 for Python 3.5+
 
 # 174 (2020-07-30)
 
